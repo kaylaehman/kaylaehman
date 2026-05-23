@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kayla+Ehman+%F0%9F%91%8B;Technical+Solutions+Architect;Data+%26+Analytics+Manager;Builder+of+Things+That+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kayla+Ehman+%F0%9F%91%8B;Technical+Solutions+Architect;Builder+of+Things+That+Scale)](https://git.io/typing-svg)
 
 <p>
   <img src="https://raw.githubusercontent.com/kaylaehman/kaylaehman/main/icons/globe.svg" width="32" height="32" alt="Website"/>
